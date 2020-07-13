@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I know what it means to work hard on machines.  It's a labor of love.  So please don't ask me why! - Thompson Twins
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I am the father of Ben, who beats me routinely in the NY Times minicrossword puzzle.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[mtk@acm.org](mailto:mtk@acm.org)
